@@ -38,6 +38,7 @@ I'm Programmer, that always seeks new things to learn and make better. In open s
 
   <ul>
     <li> Go </li>
+    <li> C++ </li>
     <li> Django (learning second time) </li>
   </ul>
 
