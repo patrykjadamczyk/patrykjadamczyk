@@ -40,6 +40,8 @@ I'm Programmer, that always seeks new things to learn and make better. In open s
     <li> Go </li>
     <li> C++ </li>
     <li> Django (learning second time) </li>
+    <li> Nim </li>
+    <li> V </li>
   </ul>
 
 </details>
@@ -53,8 +55,8 @@ I'm Programmer, that always seeks new things to learn and make better. In open s
       <td>
         <ul>
           <li> IntelliJ IDEA Ultimate </li>
+          <li> NeoVim </li>
           <li> Microsoft Visual Studio Code (sometimes) </li>
-          <li> Microsoft Visual Studio (sometimes) </li>
         </ul>
       </td>
     </tr>
@@ -62,8 +64,16 @@ I'm Programmer, that always seeks new things to learn and make better. In open s
       <td> <b> Shell </b> </td>
       <td>
         <ul>
-          <li> Bash (alf, opcode, starship) </li>
           <li> PowerShell Core </li>
+          <li> Bash </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td> <b> Terminal </b> </td>
+      <td>
+        <ul>
+          <li> Alacritty </li>
         </ul>
       </td>
     </tr>
@@ -77,62 +87,14 @@ I'm Programmer, that always seeks new things to learn and make better. In open s
       </td>
     </tr>
     <tr>
-      <td> <b> Knowledge Management </b> </td>
-      <td>
-        <ul>
-          <li> Notion </li>
-          <li> Bookstack </li>
-          <li> Google Docs / Microsoft Office </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td> <b> Code Hosting </b> </td>
-      <td>
-        <ul>
-          <li> GitHub </li>
-          <li> GitLab </li>
-          <li> BitBucket </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td> <b> Email </b> </td>
-      <td>
-        <ul>
-          <li> Postbox </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td> <b> Browser </b> </td>
       <td>
         <ul>
-          <li> Microsoft Edge (Chromium) </li>
-          <li> Google Chrome </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td> <b> Other </b> </td>
-      <td>
-        <ul>
-          <li> Windows Terminal </li>
-          <li> Raindrop.io </li>
+          <li> Vivaldi (Chromium) </li>
         </ul>
       </td>
     </tr>
   </table>
-</details>
-
-<details>
-  <summary> Tools that I currently experiment with and learning </summary>
-  
-  <ul>
-    <li> NeoVim (+ FVim) </li>
-    <li> Ranger </li>
-    <li> Ansible </li>
-  </ul>
 </details>
 
 <details>
@@ -142,6 +104,7 @@ I'm Programmer, that always seeks new things to learn and make better. In open s
     <li> Windows 10 </li>
     <li> Linux Mint </li>
     <li> Linux Ubuntu </li>
+    <li> Mac OS X </li>
   </ul>
 
 </details>
